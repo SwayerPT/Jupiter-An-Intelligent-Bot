@@ -1,6 +1,6 @@
 # Jupiter: An Intelligent Bot (learner AI)
 
-Jupiter is an innovative conversational AI chatbot designed to provide users with engaging, informative interactions. By leveraging advanced web scraping, natural language processing, and machine learning techniques, Jupiter aims to evolve into a more intelligent and capable assistant over time.
+Jupiter is an innovative conversational Open Source AI bot designed to provide users with engaging, informative interactions. By leveraging advanced web scraping, natural language processing, and machine learning techniques, Jupiter aims to evolve into a more intelligent and capable assistant over time.
 
 Vision
 Our goal is to create a chatbot that not only answers questions but also learns from interactions, adapts its responses, and engages in meaningful conversations. Jupiter aspires to become a comprehensive AI assistant that can support users in various contexts, from casual chats to in-depth inquiries.
