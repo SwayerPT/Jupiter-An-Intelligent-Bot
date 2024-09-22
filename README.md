@@ -1,5 +1,7 @@
 # Jupiter: An Intelligent Bot (learner AI)
 
+Download the latest version on <a href='https://github.com/SwayerPT/Jupiter-An-Intelligent-Bot/releases'>Releases</a>
+
 Jupiter is an innovative conversational Open Source AI bot designed to provide users with engaging, informative interactions. By leveraging advanced web scraping, natural language processing, and machine learning techniques, Jupiter aims to evolve into a more intelligent and capable assistant over time.
 
 Vision
